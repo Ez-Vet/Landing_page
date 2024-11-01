@@ -1,0 +1,32 @@
+{
+  "Header": {
+    "about": "ABOUT US",
+    "plans": "PLANS",
+    "testi": "TESTIMONIALS"
+  },
+  "Hero": {
+    "plataform": "PLATFORM THAT SIMPLIFIES VETERINARY MANAGEMENT",
+    "optimize": "Optimize your processes, save time and provide better care to your patients.",
+    "sesion": "LOG IN"
+  },
+  "Plans": {
+    "basic": "BASIC",
+    "silver": "SILVER",
+    "gold": "GOLD",
+    "a": "Up to 20 clients",
+    "ab": "Basic clinical history",
+    "accept": "Accept",
+    "b": "Up to 50 clients",
+    "bc": "Advanced clinical history",
+    "c": "Unlimited clients",
+    "cd": "Complete clinical history"
+  },
+  "Testimonials": {
+    "Testimonials": "TESTIMONIALS",
+    "Maria": "Maria Lopez",
+    "a": "Ez.vet has transformed our clinic. It allows us to save hours each day by managing our appointments and reminders automatically.",
+    "Martin": "Martin Jimenez",
+    "b": "Thanks to Ez.vet, we can offer our customers a faster and more professional service. We couldn't be happier!"
+    }
+
+}
