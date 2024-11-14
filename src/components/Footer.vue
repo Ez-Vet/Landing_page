@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <p>©2024 ez.vet. Todos los derechos reservados.</p>
+    <p>{{ $t('Footer.a') }}</p>
     <div class="social-icons">
       <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
         <img src="../assets/instagram.png" alt="Instagram" class="social-icon" />
@@ -38,6 +38,7 @@
 }
 
 .social-icon:hover {
-  transform: scale(1.1); /* Efecto de agrandado al pasar el mouse */
+  transform: scale(1.1);
+  /* Efecto de agrandado al pasar el mouse */
 }
 </style>
