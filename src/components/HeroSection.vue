@@ -1,5 +1,5 @@
 <template>
-  <section id="about" class="hero"> <!-- Agregamos id="about" aquí -->
+  <section id="about" class="hero">
     <div class="hero-content">
       <!-- Imagen de la mascota -->
       <img src="../assets/dog-cat.png" alt="Dog and Cat" class="hero-image" />
@@ -8,11 +8,23 @@
       <div class="hero-text">
         <h1>{{ $t('Hero.plataform') }}</h1>
         <p>{{ $t('Hero.optimize') }}</p>
-        <button class="cta-button">{{ $t('Hero.sesion') }}</button>
+        <!-- Botón con redirección -->
+        <button class="cta-button" @click="redirectToLink">{{ $t('Hero.sesion') }}</button>
       </div>
     </div>
   </section>
 </template>
+
+<script>
+export default {
+  methods: {
+    // Método para redirigir al enlace
+    redirectToLink() {
+      window.location.href = "https://ezvet.netlify.app";
+    }
+  }
+}
+</script>
 
 <style scoped>
 .hero {

@@ -1,6 +1,6 @@
 <template>
   <section id="testimonials" class="testimonials">
-    <h2>{{ $t('Video.Testimonials') }}</h2>
+    <h2>{{ $t('Testimonials.Testimonials') }}</h2>
 
     <!-- Testimonio de Maria Lopez (alineado a la izquierda) -->
     <div class="testimonial-card left">

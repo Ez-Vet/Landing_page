@@ -4,6 +4,8 @@
     <HeroSection />
     <PlansSection />
     <TestimonialsSection />
+    <AboutProject/>
+    <AboutTeam />
     <Footer />
   </div>
 </template>
@@ -13,7 +15,10 @@ import Header from './components/Header.vue';
 import HeroSection from './components/HeroSection.vue';
 import PlansSection from './components/PlansSection.vue';
 import TestimonialsSection from './components/TestimonialsSection.vue';
+import AboutProject from './components/About-project.vue';
+import AboutTeam from './components/About-team.vue';
 import Footer from './components/Footer.vue';
+
 
 export default {
   components: {
@@ -21,6 +26,8 @@ export default {
     HeroSection,
     PlansSection,
     TestimonialsSection,
+    AboutProject,
+    AboutTeam,
     Footer,
   },
 };

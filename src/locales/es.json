@@ -27,8 +27,13 @@
     "a": "Ez.vet ha transformado nuestra clínica. Nos permite ahorrar horas cada día gestionando nuestras citas y recordatorios automáticamente.",
     "Martin": "Martin Jimenez",
     "b": "Gracias a Ez.vet, podemos ofrecer a nuestros clientes un servicio más rápido y profesional. ¡No podríamos estar más felices!"
+  },
+"About-Project":{
+    "Project":"Sobre el proyecto",
+    "Text":"Ezvet busca ofrecer una solución para las citas medicas y registros para las veterinarias."
+  },
+  "About-team":{
+    "Project":"Sobre el equipo",
+    "Text":"Solution Vet busca soluciones para las veterinarias y clientes en el Perú."
   }
-
-
-
 }
