@@ -12,6 +12,7 @@
     "sesion": "LOG IN"
   },
   "Plans": {
+    "plans": "PLANS",
     "basic": "BASIC",
     "silver": "SILVER",
     "gold": "GOLD",
@@ -29,13 +30,13 @@
     "a": "Ez.vet has transformed our clinic. It allows us to save hours each day by managing our appointments and reminders automatically.",
     "Martin": "Martin Jimenez",
     "b": "Thanks to Ez.vet, we can offer our customers a faster and more professional service. We couldn't be happier!"
-    },
-  "About-Project":{
-    "Project":"About the Project",
-    "Text":"Ezvet seeks to offer a solution for medical appointments and registrations for veterinarians."
   },
-  "About-team":{
-    "Project":"About the Team",
-    "Text":"Solution Vet seeks solutions for veterinarians and clients in Peru."
+  "About-Project": {
+    "Project": "About the Project",
+    "Text": "Ezvet seeks to offer a solution for medical appointments and registrations for veterinarians."
+  },
+  "About-team": {
+    "Project": "About the Team",
+    "Text": "Solution Vet seeks solutions for veterinarians and clients in Peru."
   }
 }

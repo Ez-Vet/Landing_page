@@ -1,6 +1,6 @@
 <template>
   <section id="plans" class="plans">
-    <h2>PLANS</h2>
+    <h2>{{ $t('Plans') }}</h2>
     <div class="plans-cards">
       <!-- Tarjeta BASIC -->
       <div class="plan-card">
@@ -53,7 +53,8 @@
   position: relative;
   padding-top: 2rem;
   padding-bottom: 5rem;
-  background-image: url('../assets/loros.png'); /* Imagen de los loros */
+  background-image: url('../assets/loros.png');
+  /* Imagen de los loros */
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: contain;
@@ -93,17 +94,20 @@
 }
 
 .price-container {
-  background-color: #bde7df; /* Fondo más claro detrás del precio */
+  background-color: #bde7df;
+  /* Fondo más claro detrás del precio */
   border-radius: 10px;
   padding: 0.5rem 1rem;
   margin: 0.5rem 0 1rem;
-  width: 60%; /* Ancho del contenedor de precio */
+  width: 60%;
+  /* Ancho del contenedor de precio */
 }
 
 .price {
   font-size: 2.5rem;
   font-weight: bold;
-  color: #000; /* Color negro para el precio */
+  color: #000;
+  /* Color negro para el precio */
   margin: 0;
 }
 

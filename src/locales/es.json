@@ -1,15 +1,18 @@
 {
- "Header": {
-   "about": "NOSOTROS",
-   "plans": "PLANES",
-   "testi": "TESTIMONIOS"
- },
+  "Header": {
+    "about": "NOSOTROS",
+    "plans": "PLANES",
+    "testi": "TESTIMONIOS",
+    "AboutProject": "SOBRE EL PROYECTO",
+    "AboutTeam": "SOBRE EL EQUIPO"
+  },
   "Hero": {
     "plataform": "PLATAFORMA QUE SIMPLIFICA LA GESTIÓN VETERINARIA",
     "optimize": "Optimiza tus procesos, ahorra tiempo y brinda un mejor cuidado a tus pacientes.",
     "sesion": "INICIAR SESIÓN"
   },
   "Plans": {
+    "plans": "PLANES",
     "basic": "BÁSICO",
     "silver": "PLATA",
     "gold": "ORO",
@@ -28,12 +31,12 @@
     "Martin": "Martin Jimenez",
     "b": "Gracias a Ez.vet, podemos ofrecer a nuestros clientes un servicio más rápido y profesional. ¡No podríamos estar más felices!"
   },
-"About-Project":{
-    "Project":"Sobre el proyecto",
-    "Text":"Ezvet busca ofrecer una solución para las citas medicas y registros para las veterinarias."
+  "About-Project": {
+    "Project": "Sobre el proyecto",
+    "Text": "Ezvet busca ofrecer una solución para las citas medicas y registros para las veterinarias."
   },
-  "About-team":{
-    "Project":"Sobre el equipo",
-    "Text":"Solution Vet busca soluciones para las veterinarias y clientes en el Perú."
+  "About-team": {
+    "Project": "Sobre el equipo",
+    "Text": "Solution Vet busca soluciones para las veterinarias y clientes en el Perú."
   }
 }
