@@ -23,10 +23,10 @@ export default {
       <!-- Imagen de logo -->
       <img src="../assets/ez-vet.png" alt="ez.Vet Logo" class="logo-image" />
     </div>
-    
+
     <div class="center-content">
       <!-- Botón de inicio de sesión con evento de redirección -->
-      <button class="login-button" @click="navigateToLogin">INICIAR SESIÓN</button>
+      <button class="login-button" @click="navigateToLogin">{{ $t('Hero.sesion') }}</button>
       <nav class="nav">
         <a href="#about" class="nav-link">{{ $t('Header.about') }}</a>
         <a href="#plans" class="nav-link">{{ $t('Header.plans') }}</a>
