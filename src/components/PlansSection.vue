@@ -1,6 +1,6 @@
 <template>
   <section id="plans" class="plans">
-    <h2>{{ $t('Plans') }}</h2>
+    <h2>{{ $t('Plans.plans') }}</h2>
     <div class="plans-cards">
       <!-- Tarjeta BASIC -->
       <div class="plan-card">
